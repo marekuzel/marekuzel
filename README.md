@@ -1,5 +1,5 @@
 ## Hello, I'm Marek
-Computer science student at VUT Brno
+Computer science student at VUT Brno and BI intern at Dell Inc.
 ### About me:
 - From Bratislava, Slovakia
 - I like to write stuff in Python or C
